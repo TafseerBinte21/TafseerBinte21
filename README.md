@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TafseerBinte21
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning JS 
+- 🌱 I’m currently learning React
 - 📫 How to reach me https://www.facebook.com/tafseer.binte/
 
 <!---
