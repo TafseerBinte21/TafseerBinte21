@@ -1,11 +1,12 @@
 <h1 align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+There!+👋;This+is+Tafseer+Binte+Mannan;Nice+to+meet+you!&center=true&size=30"> </a> </h1> <h3 align="center">A passionate Backend Java Developer</h3> <p align="left"> <img src="https://komarev.com/ghpvc/?username=tafseerbinte21&label=Profile%20views&color=0e75b6&style=flat" alt="tafseerbinte21" /> </p>
+
 🔭 I’m currently working on OpenMRS
 
-👨‍💻 All of my projects are available at tafseerbinte21.github.io
+👨‍💻 All of my projects are available at [github.com/TafseerBinte21](https://github.com/TafseerBinte21)
 
-📫 How to reach me tafseerrimpi@gmail.com
+📫 How to reach me **tafseerrimpi@gmail.com**
 
-📄 Know about me in detail https://tafseerbinte21.github.io/
+📄 Know about me in detail [tafseerbinte21.github.io](https://tafseerbinte21.github.io/)
 
 ⚡ Fun fact I love exploring music, games, and new research ideas
 
